@@ -1,0 +1,22 @@
+{
+    "name": "arx/db",
+    "description": "Blok Db to use in every PHP project",
+    "authors": [
+        {
+            "name": "Daniel Sum",
+            "email": "daniel@cherrypulp.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.*",
+        "arx/utils": "dev-master",
+        "illuminate/database": "4.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Arx\\Db": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
