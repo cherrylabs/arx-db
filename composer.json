@@ -1,6 +1,8 @@
 {
     "name": "arx/db",
     "description": "Blok Db to use in every PHP project",
+    "homepage": "http://www.arx.io",
+    "license": "MIT",
     "authors": [
         {
             "name": "Daniel Sum",
